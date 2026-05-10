@@ -33,8 +33,4 @@ I work with a variety of technologies to bring ideas to life. Here are my primar
   <img src="https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
 </p>
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=cameraman-pritam&show_icons=true&theme=radical&hide_border=true" alt="Pritam's GitHub Stats" width="80%" />
-
 </div>
