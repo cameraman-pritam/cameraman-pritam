@@ -2,8 +2,6 @@
 
 # Hello there! 👋 I'm Pritam
 
-[![Profile Views](https://komarev.com/ghpvc/?username=cameraman-pritam&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/cameraman-pritam)
-
 <br>
 
 > *"The highest education is that which does not merely give us information but makes our life in harmony with all existence."* > — **Rabindranath Tagore**
